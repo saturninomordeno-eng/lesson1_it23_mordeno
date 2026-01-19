@@ -1,1 +1,1 @@
-# Hello kupal
+# Getting ready for Python 2
